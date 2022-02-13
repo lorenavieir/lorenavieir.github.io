@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <title>Curriculum Silvia</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="estilo.css">
+    <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
+    <script src="https://kit.fontawesome.com/5d6ceffce7.js" crossorigin="anonymous"></script>
+    <script src="codigo.js"></script>
+</html>
+
+<body>
+    <!--Page Container-->
+    <div class="left-container">
+        <div class="avatar">
+            <img src="Silvia.jpg">
+            <h1>Silvia Lorena Vieira de Sousa</h1>
+
+            <div>
+                <br>
+                <h2>Perfil Profissional</h2>
+                <p>Profissional com ampla experiência na área de atendimento ao cliente presencial e por telefone,
+                    rotinas administrativas, organização e controle de documentos em geral. Conhecimentos em pacote
+                    office, cursos na área de atendimento, call center, TI. Adaptabilidade, flexibilidade, autocontrole,
+                    inteligência emocional, escuta ativa e atenciosa, empatia, resiliência, disponibilidade para aprender
+                    e desenvolver novas competências e busca constante de novos conhecimentos.
+                </p>
+                <br>
+                <hr>
+                <br>
+            </div>
+
+            <div>
+                <p><strong>Objetivo:</strong><br><i class="fa fa-briefcase"></i> Web Designer</p>
+                <p><strong>Contato:</strong><br><i class="fa fa-phone"></i> (61) 99464-3188</p>
+                <p><strong>Email:</strong> <br><i class="fa fa-briefcase"></i> silvialorena.vieira@gmail.com</p>
+                <p><strong>Endereço:</strong><br><i class="fa fa-briefcase"></i> Núcleo Bandeirante - DF</p>
+                <br>
+                <hr>
+                <br>
+            </div>
+
+            <div>
+                <h2>Habilidades</h2>
+                <p>Wordpress</p>
+                <p>Elementor</p>
+                <p>Canva</p>
+                <p>Photoshop</p>
+                <p>Ilustrator</p>
+                <br>
+                <hr>
+                <br>
+            </div>
+
+            <div>
+                <h2>Idiomas</h2>
+                <label for="file">Inglês</label>
+                <progress id="file" value="100" max="100"> 100% </progress>
+                <br>
+                <label for="file">Espanhol</label>
+                <progress id="file" value="50" max="100"> 50% </progress>
+            <br>
+            <br>
+            </div>
+
+        </div>
+
+
+
+    </div>
+
+    <div class="rigth-container">
+            <h2> <i class="fa fa-briefcase"></i> Experiência Profissional</h2>
+            <div class="trab">
+                <h3> Web Designer </h3>
+                <p>  <i class="fa fa-calendar"></i> Jun 2020 - Até o momento </p>
+                <p>Descrição das atividades: Atendimento ao Público, preparação de encomendas para entrega, gestão de estoque, divulgação de
+                    produtos na internet sobretudo em redes sociais, criação de artes para redes sociais, criação e
+                    manutenção do e-commerce.
+                    Com uma parceria de aproximadamente um ano e meio, desenvolvi a presença online da empresa
+                    melhorando o reconhecimento e a relevância da marca e aumentando as vendas em 15%.
+                    </p>
+                <hr>
+            </div>
+
+            <div class="trab">
+                <h3> Atendente Especialista </h3>
+                <p>Call Tecnologia</p>
+                <p>  <i class="fa fa-calendar"></i> Abr 2016 - Dez 2019 </p>
+                <p>Descrição das atividades: Atendimento telefônico registrando denúncias sobre violência doméstica na lingua portuguesa e
+                    inglesa. Repasse de informações jurídicas pertinentes à mesma área. Relatórios de atendimento para
+                    acompanhamento das denúncias e encaminhamento às autoridades competentes.
+                    Nesse cargo, atingi meus principais objetivos dentro da empresa, pois, pude contribuir com um
+                    serviço público de qualidade, com notoriedade mundial. Tive a oportunidade de adquirir
+                    conhecimentos de diversos cargos como monitoria de qualidade e supervisão de equipe,por
+                    substituir a função e/ou acompanhar os processos de perto auxiliando meus líderes./p>
+                <hr>
+            </div>
+
+            <div class="trab">
+                <h3> Operadora de Teleatendimento Hibrido </h3>
+                <p>Call Tecnologia</p>
+                <p>  <i class="fa fa-calendar"></i> Ago 2014 - Mar 2016 </p>
+                <p>Descrição das atividades: Realização de pesquisas de satisfação com cidadãos usuários do Sistema Único de Saúde SUS.
+                    Contato com Agentes Gestores de Órgãos de Saúde de municípios brasileiros para
+                    acompanhamento de implementação de políticas públicas.
+                    Ao integrar a equipe de pesquisas do contrato do Ministério da Saúde, pude adquirir experiências
+                    importantes que me fizeram evoluir tanto profissionalmente quanto pessoalmente, mantendo contato
+                    com cidadãos de diversas situações socioculturais, ganhando em empatia e domínio das habilidades
+                    de atendimento.
+                    </p>
+                <hr>
+            </div>
+
+            <div class="trab">
+                <h3> Secretária/Recepcionista </h3>
+                <p>Hospital Brasilia</p>
+                <p><i class="fa fa-calendar"></i> Ago 2011 - Jun 2013 </p>
+                <p>Descrição das atividades: Atendimento ao público interno e externo no ambiente de Unidade de Tratamento Intensivo.
+                    Rotinas administrativas, como gestão de documentos, de medicamentos e de materiais hospitalares.
+                    Contato telefônico com familiares do paciente, inclusive na língua inglesa para prestação de
+                    orientações e informações. Recepção, acompanhamento e transferência de pacientes internos. Atingi
+                    excelentes resultados na área, prestando um atendimento personalizado e dessa forma alcançando o
+                    reconhecimento e satisfação de gestores e clientes, posteriormente me tornando líder de equipe,
+                    contribuindo para manter o ótimo clima organizacional da empresa. </p>
+                <hr>
+                
+            </div>
+    </div>
+    
+    
+    <div class="estud">
+        <div class="graduacao"> 
+            <h2><i class="fas fa-book"></i> Graduação </h2>
+            <p>Unicesumar Gestão Pública</p>
+            <P>Brasília/ Df, Brasil Concluído em Fevereiro/2017</p>
+        <hr>
+        </div>
+
+        <div class="complementar"> 
+        
+        <h2><i class="fas fa-edit"></i> Cursos Complementares</h2> 
+        <p>● Excel Avançado -2022
+        (65 horas) - Fundação Bradesco</p>
+        <p>● Customer Experience -2021
+        (30 horas) - Fundação Bradesco</p>
+        <p>● Programação Web - Em andamento
+        (200 horas) - Fundação Bradesco</p>
+        <p>● Digitação, Informática - 2007
+        (60 horas) - DF Digital</p>
+        <p>● Lei Geral de Proteção de Dados -2021
+        (2 horas) - Fundação Bradesco</p>
+        <p>● Pacote Office - 2020
+        (60 horas) - Fundação Bradesco</p>
+    
+        </div>
+
+    </div>
+    
+    <footer>
+        <p><i id="copy" class="far fa-copyright"></i> TODOS OS DIREITOS RESERVADOS</p>
+    </footer>
+</body>
